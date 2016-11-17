@@ -5,7 +5,7 @@ an example for genetic algorithm
 
 steps to run the application:
 
-	         *  open index.html with chrome
+	         * open index.html with chrome
 	         * just look at the movements of ants, after some time most of the ants will start moving the target
 	         * now click at some point in screen, target position will be shifted to click location
 	         * again wait for some time, after which you can see most of the ants starts moving towards target
