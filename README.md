@@ -4,6 +4,7 @@ an example for genetic algorithm
 [Launch experiment](https://ajay-sreeram.github.io/chrome_genetic_experiment/)
 
 steps to run the application:
+
 	Markup : *  open index.html with chrome
 		 * just look at the movements of ants, after some time most of the ants will start moving the target
 	         * now click at some point in screen, target position will be shifted to click location
