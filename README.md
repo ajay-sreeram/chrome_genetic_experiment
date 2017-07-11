@@ -1,5 +1,5 @@
 # chrome_genetic_experiment
-an example for genetic algorithm
+an example of genetic algorithm
 
 [Launch experiment](https://ajay-sreeram.github.io/chrome_genetic_experiment/)
 
